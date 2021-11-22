@@ -1,0 +1,1 @@
+Information{name='Hero', LV=1, HPMAX=200, MPMAX=100, HP=200, MP=100, AD=20, AP=20, AR=20, MR=20}
